@@ -1,3 +1,5 @@
+# 💫 About Me
+🔭 I'm a Computer Science Engineering student. Passionate about Python, web development, AI & machine learning.
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](//instagram.com/dipanshukapri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](//linkedin.com/in/dipanshukapri) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](//x.com/DipanshuKapri) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](//youtube.com/@dipanshukapri) 
 [![](https://img.shields.io/badge/Spotify-1ED760?&logo=spotify&logoColor=white)](//open.spotify.com/user/3176jokwrfglqwmejmo6cctuda2i)

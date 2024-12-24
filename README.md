@@ -1,5 +1,6 @@
 # 💫 About Me
-⚡ I am a final year BTech CSE student at SRM IST with hands-on experience in Web development, AI and Machine Learning. I am passionate about leveraging technology to solve real-world problems and I am eager to contribute to innovative projects.
+⚡ I am a final year BTech CSE student at SRM IST with hands-on experience in Web development, AI and Machine Learning. 
+🔭 I am passionate about leveraging technology to solve real-world problems and I am eager to contribute to innovative projects.
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](//instagram.com/dipanshukapri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](//linkedin.com/in/dipanshukapri) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](//x.com/DipanshuKapri) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](//youtube.com/@dipanshukapri) 
 [![](https://img.shields.io/badge/Spotify-1ED760?&logo=spotify&logoColor=white)](//open.spotify.com/user/3176jokwrfglqwmejmo6cctuda2i)
